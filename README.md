@@ -1,6 +1,6 @@
 # analyze-code-security-scc
 
-
+.
 ## Description
 
 
